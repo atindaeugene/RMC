@@ -1,0 +1,7 @@
+{
+  "name": "Renice Medical Center",
+  "description": "A professional and compassionate Level 3 accredited medical facility website for Renice Medical Centre in Mlolongo, featuring a modern design, service highlights, and an AI health assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
